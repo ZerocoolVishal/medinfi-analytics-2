@@ -50,15 +50,3 @@ The new Yii application will be created at "YiiPath/testdrive".
 You can access it with the following URL:
 
         http://hostname/YiiPath/testdrive/index.php
-
-
-WHAT's NEXT
------------
-
-Please visit the project website for tutorials, class reference
-and join discussions with other Yii users.
-
-
-
-The Yii Developer Team
-http://www.yiiframework.com
